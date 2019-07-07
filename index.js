@@ -7,7 +7,7 @@
 import Bks123FileInput from './components/Bks123FileInput.vue';
 
 export default {
-	install(Vue, options) {
-		Vue.component('bks123-file-input', Bks123FileInput);
-	}
+    install(Vue, options) {
+        Vue.component('bks123-file-input', Bks123FileInput);
+    }
 }
