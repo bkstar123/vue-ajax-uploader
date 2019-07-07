@@ -1,6 +1,6 @@
 {
   "name": "@bkstar18/vue-ajax-uploader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue plugin for ajax file upload (single file & multiple files selection)",
   "main": "index.js",
   "scripts": {
