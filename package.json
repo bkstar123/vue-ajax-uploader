@@ -1,0 +1,22 @@
+{
+  "name": "@bkstar18/vue-ajax-uploader",
+  "version": "0.0.8",
+  "description": "A Vue plugin for ajax file upload (single file & multiple files selection)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkstar123/vue-ajax-uploader.git"
+  },
+  "keywords": [
+    "vue-ajax-uploader"
+  ],
+  "author": "hoangtuandhbk@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkstar123/vue-ajax-uploader/issues"
+  },
+  "homepage": "https://github.com/bkstar123/vue-ajax-uploader#readme"
+}
