@@ -7,7 +7,7 @@
 
 ## 2. Requirement
 - This plugin requires Bootstrap 4.x and axios package  
-- If you follow Laravel's standard setup for frontend, then all things are set out of the box. Otherwise, yoi may need to manually install axios and configure it to send ```X-CSRF-TOKEN``` for every request.  
+- If you follow Laravel's standard setup for frontend, then all things are set out of the box. Otherwise, you may need to manually install axios and configure it to send ```X-CSRF-TOKEN``` for every request.  
 
 ## 3. Integrate with Laravel backend
 
@@ -37,7 +37,7 @@ If you do not specify any attributes, then the plugin will use the following def
 - ```max-size```: 5242880 => maximum file size in bytes (<=> 5 MB)  
 
 
-***An example for customize the default behavior***:  
+***An example for customizing the default behavior***:  
 ```html
 <bks123-file-input input-name="image" 
                    key="image"
